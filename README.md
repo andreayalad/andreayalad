@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Banner](https://github.com/andreayalad/andreayalad/blob/master/My%20Banner.png)  
+
 <!--
 **andreayalad/andreayalad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

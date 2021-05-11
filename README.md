@@ -1,12 +1,18 @@
-### Hi there 👋
 
-![Banner](https://github.com/andreayalad/andreayalad/blob/master/My%20Banner.png)  
+![Banner](https://github.com/andreayalad/andreayalad/blob/master/assets/My%20Banner.png)  
 <p align="center">   
   <img src="https://profile-counter.glitch.me/andreayalad/count.svg" />  
 </p>  
 <h2>Hi there <img src="https://media4.giphy.com/media/Kfl09udXYhbjajJwEt/giphy_s.gif" width="25px"></h2>
-<h3>Glad to see you here!</h3>  
+<h3>Welcome to my Github</h3>  
+<h3 align="left">Connect with me:</h3>  
+<p align="left">
 
+<a href="https://twitter.com/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a>  
+<a href="https://linkedin.com/in/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>  
+<a href="https://fb.com/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/facebook.svg" alt="kmhmubin" height="30" width="30" /></a>  
+<a href="https://instagram.com/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>  
+</p>  
 <!--
 **andreayalad/andreayalad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

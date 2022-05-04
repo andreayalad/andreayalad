@@ -1,5 +1,5 @@
 
-![Banner](https://github.com/andreayalad/andreayalad/blob/master/assets/My%20Banner.png)  
+![Banner](https://github.com/andreayalad/andreayalad/blob/master/assets/andreayalad.png)  
 <p align="center">   
   <img src="https://profile-counter.glitch.me/andreayalad/count.svg" />  
 </p>  

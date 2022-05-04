@@ -8,26 +8,19 @@
 <h3 align="left">Connect with me:</h3>  
 <p align="left">
 
-<a href="https://twitter.com/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a>  
-<a href="https://linkedin.com/in/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>  
-<a href="https://fb.com/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/facebook.svg" alt="kmhmubin" height="30" width="30" /></a>  
-<a href="https://instagram.com/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>  
-</p>  
-<!--
-**andreayalad/andreayalad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/andreaayalaad" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a>  
+<a href="www.linkedin.com/in/andreayalaqa" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>  
+<a href="https://www.facebook.com/andrea.ayala.37604303/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/facebook.svg" alt="kmhmubin" height="30" width="30" /></a>  
+<a href="https://www.instagram.com/andreaayalad/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>  
+</p> 
 
 Here are some ideas to get you started:
 ##Some random data 😄
-- 👩‍💻  I’m currently studying Informatic Engineer at UCA, I'm on my 3rd year. 
-- 🌱 I’m learning by myself a little bit of React and Vue for a profesional project/ work my plan it's to work as a Frontend Developer
-- 🤔 I’m looking for help with backend, ASAP
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩🏼‍🏫 I’m currently studying Informatic Engineer at UCA, I'm on my 4th year. 
+- 👩🏼‍💻 1 year as a Software QA Engineer, automation entusiast! 
+- 💫 Self-taught person to the bone, knowledges in: 
+- Mobile automation: Appium with JAVA, for Android and iOS
+- Web automation: Cypress, CucumberJS, Playwright with JAVA
+- API Testing: Playwright(under construction)
+- 🚀 Working at: CUBO PAGO in El Salvador 
+- ✌🏼 If you want to know me better as a person, reach me on my instagram, facebook or twitter, but if you want some serious business contact me on my Linked In, I'll be happy to talk with you 

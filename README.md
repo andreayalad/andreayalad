@@ -19,8 +19,8 @@
 - 👩🏼‍🏫 I’m currently studying Informatic Engineer at UCA, I'm on my 4th year. 
 - 👩🏼‍💻 1 year as a Software QA Engineer, automation entusiast! 
 - 💫 Self-taught person to the bone, knowledges in: 
-- Mobile automation: Appium with JAVA, for Android and iOS
-- Web automation: Cypress, CucumberJS, Playwright with JAVA
-- API Testing: Playwright(under construction)
+  - Mobile automation: Appium with JAVA, for Android and iOS
+  - Web automation: Cypress, CucumberJS, Playwright with JAVA
+  - API Testing: Playwright(under construction)
 - 🚀 Working at: CUBO PAGO in El Salvador 
 - ✌🏼 If you want to know me better as a person, reach me on my instagram, facebook or twitter, but if you want some serious business contact me on my Linked In, I'll be happy to talk with you 

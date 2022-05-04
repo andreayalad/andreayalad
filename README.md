@@ -14,8 +14,8 @@
 <a href="https://www.instagram.com/andreaayalad/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>  
 </p> 
 
-Here are some ideas to get you started:
-##Some random data 😄
+## Some random data 😄
+
 - 👩🏼‍🏫 I’m currently studying Informatic Engineer at UCA, I'm on my 4th year. 
 - 👩🏼‍💻 1 year as a Software QA Engineer, automation entusiast! 
 - 💫 Self-taught person to the bone, knowledges in: 
